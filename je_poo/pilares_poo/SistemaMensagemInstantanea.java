@@ -18,8 +18,8 @@ public abstract class SistemaMensagemInstantanea {
 
     protected abstract void receber();
 
-    // Princípio do Encapsulamento, estes dois métodos só irão acontecer internamente, não precisam ser visíveis
-    // por isso declaramos eles como private
+    // Princípio do Encapsulamento, este métod0 só irá acontecer internamente, não precisam ser visíveis
+    // por isso declaramos ele como private
     // No caso, vamos encapsular eles dentro dos métodos publicos acima conforme a lógica de enviar mensagens.
 
     private boolean verificarInternet(){

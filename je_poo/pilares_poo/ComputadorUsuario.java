@@ -8,7 +8,7 @@ public class ComputadorUsuario {
 
         /*
             NÃO SE SABE QUAL APP
-            MA QUALQUER UM DEVERÁ ENVIAR E RECEBER MENSAGENS.
+            MAS QUALQUER UM DEVERÁ ENVIAR E RECEBER MENSAGENS.
          */
 
         String appEscolhido ="tlg";
