@@ -46,7 +46,7 @@ public class AgendaService {
 
     }
 
-    // AQUI TEMOS UM MÉTODO AUXILIAR. SEMPRE PRIVATE. Aqui é onde buscamos o objeto para excluir.
+    // AQUI TEMOS UM MÉT0DO AUXILIAR. SEMPRE PRIVATE. Aqui é onde buscamos o objeto para excluir.
 
     private Agenda buscarPorId(int id){
         for(Agenda contato : contatos) {
